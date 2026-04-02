@@ -1,7 +1,7 @@
 #!/bin/bash
 # ============================================================
 # Script 1: System Identity Report
-# Author: Ayush Pandey | Reg No: 24BCE11356
+# Author: Bhavesh Malik | Reg No: 24BCE10162
 # Course: Open Source Software | OSS NGMC Capstone Project
 # Description: Displays a welcome screen with system info
 #              and open-source license details for the OS.
