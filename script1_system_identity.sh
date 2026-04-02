@@ -8,8 +8,8 @@
 # ============================================================
 
 # --- Student & Software Variables ---
-STUDENT_NAME="Ayush Pandey"
-REG_NO="24BCE11356"
+STUDENT_NAME="bhavesh malik"
+REG_NO="24BCE10162"
 SOFTWARE_CHOICE="Git"
 
 # --- Gather System Information using command substitution ---
