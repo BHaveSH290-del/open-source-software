@@ -7,8 +7,8 @@
 
 | Field | Details |
 |---|---|
-| **Student Name** | *Ayush Pandey* |
-| **Registration Number** |  *24BCE11356*|
+| **Student Name** | *bhavesh malik* |
+| **Registration Number** |  *24BCE10162*|
 | **Chosen Software** | Git |
 | **Licence of Software** | GNU General Public License v2 (GPL v2) |
 | **Course** | Open Source Software (OSS NGMC) |
